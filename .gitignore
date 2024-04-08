@@ -40,3 +40,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/own_api_key1.txt
+/.idea/
+
+/*.txt
